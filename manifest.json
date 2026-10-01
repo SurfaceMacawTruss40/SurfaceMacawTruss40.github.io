@@ -1,0 +1,26 @@
+{
+  "name": "Рабочие прокси для Телеграма (56) — TG Дайджест, 15:33 МСК",
+  "short_name": "TG Дайджест",
+  "description": "Список из 56 рабочих MTProto-прокси для Telegram на TG Дайджест: наши серверы и проверенные публичные, пинг, мгновенное подключение.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf8f4",
+  "theme_color": "#9d6825",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
